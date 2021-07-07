@@ -1,0 +1,13 @@
+.App {
+  padding: 20px;
+  text-align: center;
+}
+
+.App> div {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 1300px;
+  margin: 0 auto;
+}
